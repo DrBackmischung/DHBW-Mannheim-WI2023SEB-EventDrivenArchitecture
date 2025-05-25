@@ -65,3 +65,5 @@ eda_app:run_demo().
 ### 3. 🎯 **Reaktive Services**
 - Der `billing_service` **reagiert** auf relevante Events via `handle_info/2`.
 - Weitere Subscriber könnten **parallel** hinzugefügt werden, ohne dass der Publisher davon weiß.
+
+
